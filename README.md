@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shree7796
+- 👋 Hi, I’m Shivam Shrivastava
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning/working on Data Engineering
 - 💞️ I’m looking to collaborate on ??
