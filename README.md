@@ -14,7 +14,7 @@
 ---
 
 ### 👨‍💻 About me
-- 💼 Software engineer focused on **Python** and **Data Engineering**
+- 💼 Software engineer focused on **Python** and **AI**
 - 🚀 Building reliable data pipelines & backend services
 - 📚 Currently deep-diving into **Spark**, **LLMs**, and **AWS**
 - 🤝 Open to collaborating on APIs, System Designs, and infra-as-code
